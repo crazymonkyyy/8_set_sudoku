@@ -1,8 +1,8 @@
-##s set sudoku
+## 8 set sudoku
 
 rules:
 
-	every column and row must contain the digits 1-8, every 2 by 2 box must be colored and contain the set of number corresponding to the color.
+every column and row must contain the digits 1-8, every 2 by 2 box must be colored and contain the set of number corresponding to the color.
 
 | color | numbers | name
 |---|---|---
